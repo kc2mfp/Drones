@@ -1,0 +1,4 @@
+set usb_hid_cdc = ON
+set usb_hid_cdc = OFF
+
+for liftoff to work you need to give access to the input files to the remote
